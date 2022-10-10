@@ -9,7 +9,7 @@ class item_struct{
         double profit,weight;
         double ratio;
     };
-
+// aryan ke changes
 //------------Merge sort---------------------------------------------------
 void merge(item_struct *array, int l, int m, int r) {
    int i, j, k, nl, nr;
